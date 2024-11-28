@@ -4,7 +4,7 @@
 
 
 ## Sobre Mí 💻
-Soy estudiante secundario de la especialidad de informatica y estudiante de ingenieria en informatica UBA.  
+### Soy estudiante secundario de la especialidad de informatica y estudiante de ingenieria en informatica UBA.  
 
 ## Tecnologia de desarrollo
 
@@ -31,8 +31,5 @@ Soy estudiante secundario de la especialidad de informatica y estudiante de inge
 
 ## Github
 
-<a href="http://www.github.com/SirFrancis2007"><img src="https://github-readme-stats.vercel.app/api?username=SirFrancis2007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SirFrancis2007's GitHub stats" /></a>
+![Commits](https://github-readme-stats.vercel.app/api?username=SirFrancis2007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true) ![Code](https://github-readme-stats.vercel.app/api/top-langs/?username=SirFrancis2007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
-<a href="http://www.github.com/SirFrancis2007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SirFrancis2007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-![Gihub](https://github-readme-stats.vercel.app/api/top-langs/?username=SirFrancis2007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
