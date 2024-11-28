@@ -4,7 +4,14 @@
 
 
 ## Sobre Mí 💻
-### Soy estudiante secundario de la especialidad de informatica y estudiante de ingenieria en informatica UBA.  
+
+#### Soy desarrollador Frontend y Backend. Me gusta mas el apartado Backend y la Administracion con Bases de datos. Me gusta aprender y objectivo de desarrollo inovadores y productivos. 
+
+ - Estoy aprendiendo
+    - .Net
+    - Redes
+    - MySql
+ - Me encanta ayudar 🔑, jugar videojuegos 💻, Viajar ✈, Tocar y escuchar musica 🎼, ... y comer 🍔😛  
 
 ## Tecnologia de desarrollo
 
